@@ -12,7 +12,7 @@
 </ul>
 
 <h3>API</h3>
-<p>Execute the following command lines inside the folder "step7&8/job_api"</p>
+<p>Execute the following command lines inside the folder job_api</p>
 <ul>
 	<li>composer update</li>
 	<li>composer install</li>
@@ -29,4 +29,4 @@ DB_PASSWORD=password
 	<li>php artisan serve</li>
 </ul>
 <p>That's it the API is working !</p>
-<p>You can now open step7&8/view/index.html inside your browser and start testing the app.</p>
+<p>You can now open view/index.html inside your browser and start testing the app.</p>
