@@ -1,3 +1,7 @@
+<h1>My first big project as a student. I'm keeping this here as a public archive.</h1>
+
+-----------------------------------
+
 <h1>TEAM CUILLERE : JoBoard</h1>
 <h2>API and Database initialization</h2>
 <h3>Database</h3>
